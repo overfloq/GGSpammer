@@ -1,0 +1,14 @@
+﻿GGSpammer - User Agreement
+
+* You, the user is responsible for everything, you'll do. We don't take any responsibility for any action, you'll do
+  with our tool. This tool isn't intended for malicious pursposes, but for education pursposes.
+
+* Discord can take an action with accounts, that owns tokens you used for raiding. Not only your raiding accounts, but
+  also your personal discord account. If not using appropriate protection, like virtual private network (VPN) and an
+  alternative account while using this tool, you should be safe - but it's not guaranteed!
+
+* Virtual private network (VPN) might not always provide a complete protection. Remember, discord is
+  logging almost everything. If you do something bad, discord can actually take an action immediatelly or later.
+
+If you're using GGSpammer, you must agree to this User Agreement. If you don't, we don't care - using this tool automatically
+means that you agree to this User Agreement no matter if you actually did read them or not.
